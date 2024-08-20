@@ -1,0 +1,21 @@
+What is the JVM in Java?
+The JVM (Java Virtual Machine) is a runtime environment that executes Java bytecode.
+
+
+
+What is the difference between == and .equals() in Java?
+== compares object references, while .equals() compares the values within the objects.
+
+
+
+What is a NullPointerException in Java?
+A NullPointerException occurs when trying to access an object or call a method on a null reference.
+
+
+What is an Interface in Java?
+An Interface is a reference type in Java that can contain abstract methods, which are implemented by classes.
+
+
+
+What is the purpose of the final keyword in Java?
+The final keyword is used to make variables, methods, or classes unchangeable after their initial definition.
